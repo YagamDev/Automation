@@ -1,4 +1,4 @@
-#  Automated Appointment Booking with Selenium
+#  Automated Appointment Booking (calmark website)
 This Python script uses Selenium WebDriver to automate the process of booking an appointment on the Calmark.co.il website.
 It simulates a real user logging in and selecting a service, provider, and available appointment date.
 
